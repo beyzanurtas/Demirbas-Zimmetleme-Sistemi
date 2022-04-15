@@ -1,0 +1,42 @@
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\bin\Debug\DemirbasZimmet.exe.config
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\bin\Debug\DemirbasZimmet.exe
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\bin\Debug\DemirbasZimmet.pdb
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.BölümDüzenleSil.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.DemirbasSilDüzenle.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.AnaForm.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.MalzemeDuzenleSil.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.PersonelSildüzenle.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.BölümListesi.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.Properties.Resources.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniMalzeme.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniPersonel.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.ZimmetDüzenleSil.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniBölüm.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniDemirbas.resources
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.exe
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.pdb
+C:\Users\Acer\Desktop\DemirbasZimmet-master\DemirbasZimmet\obj\Debug\DemirbasZimmet.PersonelListesi.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\bin\Debug\DemirbasZimmet.exe.config
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\bin\Debug\DemirbasZimmet.exe
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\bin\Debug\DemirbasZimmet.pdb
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.BölümDüzenleSil.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.DemirbasSilDüzenle.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.AnaForm.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.MalzemeDuzenleSil.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.PersonelSildüzenle.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.BölümListesi.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.PersonelListesi.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.Properties.Resources.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniMalzeme.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniPersonel.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.ZimmetDüzenleSil.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniBölüm.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.YeniDemirbas.resources
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.exe
+C:\Users\Acer\Desktop\GUZEM DERS\notlar\DemirbasZimmet\obj\Debug\DemirbasZimmet.pdb
